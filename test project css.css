@@ -1,6 +1,7 @@
 body{ 
     background-image: url('sunset.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     color: rgb(0, 0, 0);
 }
 fieldset {
@@ -41,5 +42,6 @@ border: 3px solid rgb(255, 255, 255);   /* border size + color */
   
     transform: translateY(8px); /* move down on hover */
 }
+
 
 
